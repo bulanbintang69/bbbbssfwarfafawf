@@ -114,7 +114,6 @@ async def start_command(client: Bot, message: Message):
                 pass
     else:
     await reply_text.edit("domo minna!!!!")
-    return
 
 
 @Bot.on_message(filters.command("start") & filters.private)
