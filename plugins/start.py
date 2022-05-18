@@ -113,9 +113,7 @@ async def start_command(client: Bot, message: Message):
             except BaseException:
                 pass
     else:
-    await message.reply_text("domo minna!!!")
-    
-
+    await message.reply_text("domo minna", quote=True)
 
 @Bot.on_message(filters.command("start") & filters.private)
 async def not_joined(client: Bot, message: Message):
