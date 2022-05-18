@@ -11,7 +11,7 @@
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",
-      "value": ""
+      "value": "1826399703:AAEwRBv_Jl37WUdQcXm5EY4svjOb9jZoBSg"
     },
     "OWNER": {
       "description": "Masukan Username Telegram untuk Owner BOT [ Jangan Pake @ ]",
@@ -19,23 +19,23 @@
     },
     "OWNER_ID": {
       "description": "Masukan User ID Telegram untuk Owner BOT",
-      "value": "844432220"
+      "value": "1747137573"
     },
     "ADMINS": {
       "description": "Masukan User ID untuk mendapatkan hak Admin BOT [Hanya dapat membuat link]",
-      "value": "0"
+      "value": "1747137573"
     },
     "APP_ID": {
       "description": "Dapatkan APP ID di web my.telegram.org",
-      "value": ""
+      "value": "7849221"
     },
     "API_HASH": {
       "description": "Dapatkan API HASH di web my.telegram.org",
-      "value": ""
+      "value": "ef483846c6ad56e52008e9e569c4a3b8"
     },
     "CHANNEL_ID": {
       "description": "Masukan ID Channel Untuk [Channel Database]",
-      "value": "-100"
+      "value": "-1001721315235"
     },
     "FORCE_SUB_CHANNEL": {
       "description": "Masukan ID dari Channel Atau Group Untuk Wajib Subscribenya, Bila tidak ingin dipakai Fsubnya, isi dengan 0",
