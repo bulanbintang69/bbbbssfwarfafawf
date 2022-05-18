@@ -113,7 +113,8 @@ async def start_command(client: Bot, message: Message):
             except BaseException:
                 pass
     else:
-    await reply_text.edit("domo minna!!!!")
+    await message.reply_text("domo minna!!!")
+    
 
 
 @Bot.on_message(filters.command("start") & filters.private)
